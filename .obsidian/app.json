@@ -184,5 +184,6 @@
     "issues",
     "issue",
     "Comand"
-  ]
+  ],
+  "promptDelete": false
 }

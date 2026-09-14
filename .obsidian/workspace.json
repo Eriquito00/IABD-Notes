@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "675eb94a08d8f296",
+        "id": "7337453170d5faa5",
         "type": "tabs",
         "children": [
           {
-            "id": "5f3d2e3fefc5acd6",
+            "id": "53c3767131e2d9f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -169,9 +165,23 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5f3d2e3fefc5acd6",
+  "active": "bfaa022e327b787e",
   "lastOpenFiles": [
+    "Sistemes de Big Data/Sistemes de Big Data.md",
+    "Sistemes d'Aprenentatge Automatic/Sistemes d'aprenentatge Automatic.md",
+    "Programacio de IA/Programacio de IA.md",
+    "Models de IA/Models de IA.md",
+    "Big Data Aplicat/Big Data Aplicat.md",
     "README.md",
+    "03_Big_Data.md",
+    "01_Introduccion_IA.md",
+    "02_Machine_Learning.md",
+    "Big Data Aplicat",
+    "Sistemes de Big Data",
+    "Programacio de IA",
+    "Sistemes d'Aprenentatge Automatic",
+    "Models de IA",
+    "00_Index.md",
     "Bases de dades/SGBD/Relacional/MySQL/DDL MySQL.md",
     "Bases de dades/SGBD/Relacional/MySQL/MySQL.md",
     "Bases de dades/SGBD/Relacional/Sistemes Relacionals.md",
@@ -188,23 +198,12 @@
     "Desplegament d'Aplicacions Web/Serveis Linux/Configuracio de PHP a Apache Linux.md",
     "Desplegament d'Aplicacions Web/Serveis Linux/Instalacio del servei FTP.md",
     "Desplegament d'Aplicacions Web/Serveis Linux/Instalacio Apache a Linux i Configuracio de serveis.md",
-    "SEO/Apuntes/Parts del SEO.md",
-    "SEO/Apuntes/Tipus de SEO.md",
-    "SEO/Introduccio a SEO.md",
-    "Desplegament d'Aplicacions Web/Serveis Windows/Instalacio servei Web Windows.md",
-    "Entorns de Desenvolupament/Desenvolupament de programari/Fases de desenvolupament.md",
-    "Frontend Web/TypeScript/Metodes de Arrays.md",
-    "Frontend Web/TypeScript/Lambda Expression.md",
-    "Frontend Web/TypeScript/DOM amb TypeScript.md",
-    "Frontend Web/TypeScript/TypeScript.md",
     "Entorns de Desenvolupament/Desenvolupament de programari",
     "Entorns de Desenvolupament",
-    "Sin nombre",
     "Backend Web/desktop.ini",
     "Desplegament d'Aplicacions Web/Serveis Windows/desktop.ini",
     "Desplegament d'Aplicacions Web/Serveis Windows",
     "Sin título.canvas",
-    "Sin título.base",
     "Imatges/Pasted image 20250929195801.png",
     "Imatges/Pasted image 20250929195751.png",
     "Imatges/Pasted image 20250929195718.png",
@@ -212,9 +211,6 @@
     "Imatges/Pasted image 20250929195655.png",
     "Imatges/Pasted image 20250929195612.png",
     "Imatges/Pasted image 20250929195601.png",
-    "Frontend Web/TypeScript/Sin nombre",
-    "TypeScript",
-    "Frontend Web/TypeScript",
     "Imatges/Pasted image 20250527093446.png",
     "Imatges/Pasted image 20250526115013.png",
     "Imatges/Pasted image 20250526114847.png",

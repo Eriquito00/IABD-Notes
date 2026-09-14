@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7337453170d5faa5",
+        "id": "d758444076e158f2",
         "type": "tabs",
         "children": [
           {
-            "id": "53c3767131e2d9f6",
+            "id": "733b1d87332cc985",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,11 +161,10 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "github-sync:Sync with Remote": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bfaa022e327b787e",
+  "active": "733b1d87332cc985",
   "lastOpenFiles": [
     "Sistemes de Big Data/Sistemes de Big Data.md",
     "Sistemes d'Aprenentatge Automatic/Sistemes d'aprenentatge Automatic.md",

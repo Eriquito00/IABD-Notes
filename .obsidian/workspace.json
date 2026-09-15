@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8c28cc2fb961117c",
+        "id": "940f39de5100b173",
         "type": "tabs",
         "children": [
           {
-            "id": "a743023a7764cf3b",
+            "id": "1d89675b50913e0a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,8 +165,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a743023a7764cf3b",
+  "active": "bfaa022e327b787e",
   "lastOpenFiles": [
+    "Models de IA/Models de IA.md",
+    "Models de IA/Que es la IA.md",
     "Big Data Aplicat/Arquitectures de Big Data/Arquitectura Lambda.md",
     "Big Data Aplicat/Arquitectures de Big Data/Arquitectures de Big Data.md",
     "Big Data Aplicat/Arquitectures de Big Data/Tipus de processament.md",
@@ -178,7 +180,6 @@
     "Sistemes de Big Data/Sistemes de Big Data.md",
     "Sistemes d'Aprenentatge Automatic/Sistemes d'aprenentatge Automatic.md",
     "Programacio de IA/Programacio de IA.md",
-    "Models de IA/Models de IA.md",
     "README.md",
     "03_Big_Data.md",
     "01_Introduccion_IA.md",
@@ -200,7 +201,6 @@
     "Bases de dades/ER i Relacional/Entitat Relacio.md",
     "Bases de dades/ER i Relacional/Exercicis Entitat Relacio.md",
     "Bases de dades/ER i Relacional/Model relacional.md",
-    "Desplegament d'Aplicacions Web/Serveis Linux/Configuracio de Apache amb Python + Flask.md",
     "Entorns de Desenvolupament/Desenvolupament de programari",
     "Entorns de Desenvolupament",
     "Backend Web/desktop.ini",

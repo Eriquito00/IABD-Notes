@@ -183,7 +183,14 @@
     "issue",
     "issues",
     "issue",
-    "Comand"
+    "Comand",
+    "SPOF",
+    "sobreenginyeria",
+    "Batch",
+    "serverless",
+    "WAF",
+    "Serving",
+    "batch"
   ],
   "promptDelete": false
 }

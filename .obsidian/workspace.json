@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d758444076e158f2",
+        "id": "8c28cc2fb961117c",
         "type": "tabs",
         "children": [
           {
-            "id": "733b1d87332cc985",
+            "id": "a743023a7764cf3b",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Nova pestanya"
             }
           }
         ]
@@ -42,7 +42,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Explorador de fitxers"
             }
           },
           {
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 200
   },
   "right": {
     "id": "9565c7424373b453",
@@ -155,22 +155,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Crear nueva base": false,
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Obre el selector ràpid": false,
+      "graph:Obre la vista gràfica": false,
+      "canvas:Crea un llenç nou": false,
+      "daily-notes:Obre la nota d'avui": false,
+      "templates:Inserir plantilla": false,
+      "command-palette:Obre la paleta d'ordres": false,
+      "bases:Crea una base nova": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "733b1d87332cc985",
+  "active": "a743023a7764cf3b",
   "lastOpenFiles": [
+    "Big Data Aplicat/Arquitectures de Big Data/Arquitectura Lambda.md",
+    "Big Data Aplicat/Arquitectures de Big Data/Arquitectures de Big Data.md",
+    "Big Data Aplicat/Arquitectures de Big Data/Tipus de processament.md",
+    "Big Data Aplicat/Arquitectures de Big Data/Els 5 pilars del Big Data.md",
+    "Big Data Aplicat/Big Data Aplicat.md",
+    "Big Data Aplicat/Arquitectures de Big Data",
+    "Imatges/Pasted image 20260915181007.png",
+    "Imatges",
     "Sistemes de Big Data/Sistemes de Big Data.md",
     "Sistemes d'Aprenentatge Automatic/Sistemes d'aprenentatge Automatic.md",
     "Programacio de IA/Programacio de IA.md",
     "Models de IA/Models de IA.md",
-    "Big Data Aplicat/Big Data Aplicat.md",
     "README.md",
     "03_Big_Data.md",
     "01_Introduccion_IA.md",
@@ -193,15 +201,9 @@
     "Bases de dades/ER i Relacional/Exercicis Entitat Relacio.md",
     "Bases de dades/ER i Relacional/Model relacional.md",
     "Desplegament d'Aplicacions Web/Serveis Linux/Configuracio de Apache amb Python + Flask.md",
-    "Desplegament d'Aplicacions Web/Serveis Linux/Configuracio de Apache amb Tomcat.md",
-    "Desplegament d'Aplicacions Web/Serveis Linux/Configuracio de PHP a Apache Linux.md",
-    "Desplegament d'Aplicacions Web/Serveis Linux/Instalacio del servei FTP.md",
-    "Desplegament d'Aplicacions Web/Serveis Linux/Instalacio Apache a Linux i Configuracio de serveis.md",
     "Entorns de Desenvolupament/Desenvolupament de programari",
     "Entorns de Desenvolupament",
     "Backend Web/desktop.ini",
-    "Desplegament d'Aplicacions Web/Serveis Windows/desktop.ini",
-    "Desplegament d'Aplicacions Web/Serveis Windows",
     "Sin título.canvas",
     "Imatges/Pasted image 20250929195801.png",
     "Imatges/Pasted image 20250929195751.png",
@@ -212,7 +214,6 @@
     "Imatges/Pasted image 20250929195601.png",
     "Imatges/Pasted image 20250527093446.png",
     "Imatges/Pasted image 20250526115013.png",
-    "Imatges/Pasted image 20250526114847.png",
     "Sense títol.canvas"
   ]
 }

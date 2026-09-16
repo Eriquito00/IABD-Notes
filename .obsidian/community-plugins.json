@@ -1,4 +1,5 @@
 [
   "github-sync",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "obsidian-filename-heading-sync"
 ]

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "940f39de5100b173",
+        "id": "a0331cd214d1e63e",
         "type": "tabs",
         "children": [
           {
-            "id": "1d89675b50913e0a",
+            "id": "9dbede2b19ffa9a6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,11 +165,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bfaa022e327b787e",
+  "active": "9dbede2b19ffa9a6",
   "lastOpenFiles": [
-    "Models de IA/Models de IA.md",
-    "Models de IA/Que es la IA.md",
+    "Sense títol.base",
+    "Sistemes d'Aprenentatge Automatic/Tipus d'IA.md",
+    "hola bueas.md",
+    "Sense títol",
     "Big Data Aplicat/Arquitectures de Big Data/Arquitectura Lambda.md",
+    "Sistemes d'Aprenentatge Automatic/Sistemes d'aprenentatge Automatic.md",
+    "Models de IA/Que es la IA.md",
+    "Models de IA/Models de IA.md",
     "Big Data Aplicat/Arquitectures de Big Data/Arquitectures de Big Data.md",
     "Big Data Aplicat/Arquitectures de Big Data/Tipus de processament.md",
     "Big Data Aplicat/Arquitectures de Big Data/Els 5 pilars del Big Data.md",
@@ -178,7 +183,6 @@
     "Imatges/Pasted image 20260915181007.png",
     "Imatges",
     "Sistemes de Big Data/Sistemes de Big Data.md",
-    "Sistemes d'Aprenentatge Automatic/Sistemes d'aprenentatge Automatic.md",
     "Programacio de IA/Programacio de IA.md",
     "README.md",
     "03_Big_Data.md",
@@ -198,12 +202,8 @@
     "Bases de dades/Historia/Historia.md",
     "Desplegament d'Aplicacions Web/Serveis Linux/Instalacio i configuracio de Docker.md",
     "Desplegament d'Aplicacions Web/Introduccio a Desplegament d'Aplicacions Web.md",
-    "Bases de dades/ER i Relacional/Entitat Relacio.md",
-    "Bases de dades/ER i Relacional/Exercicis Entitat Relacio.md",
-    "Bases de dades/ER i Relacional/Model relacional.md",
     "Entorns de Desenvolupament/Desenvolupament de programari",
     "Entorns de Desenvolupament",
-    "Backend Web/desktop.ini",
     "Sin título.canvas",
     "Imatges/Pasted image 20250929195801.png",
     "Imatges/Pasted image 20250929195751.png",

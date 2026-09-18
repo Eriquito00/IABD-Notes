@@ -191,7 +191,8 @@
     "WAF",
     "Serving",
     "batch",
-    "analysis"
+    "analysis",
+    "outliers"
   ],
   "promptDelete": false
 }

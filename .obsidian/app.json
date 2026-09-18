@@ -190,7 +190,8 @@
     "serverless",
     "WAF",
     "Serving",
-    "batch"
+    "batch",
+    "analysis"
   ],
   "promptDelete": false
 }

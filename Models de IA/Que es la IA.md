@@ -1,4 +1,4 @@
-# Que és la IA
+# Que es la IA
 
 No hi ha una única definició d'intel·ligència artificial, no existeix exactament una definició d'intel·ligència, però podríem dir que és bàsicament la capacitat d'aprendre.
 

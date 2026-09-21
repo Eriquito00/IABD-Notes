@@ -5,3 +5,5 @@
 [Tipus de processament](Tipus%20de%20processament.md)
 
 [Arquitectura Lambda](Arquitectura%20Lambda.md)
+
+[Arquitectura Kappa](Arquitectura%20Kappa.md)

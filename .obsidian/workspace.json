@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "aba29b0d4b17ea01",
+        "id": "16b65bd4fae31776",
         "type": "tabs",
         "children": [
           {
-            "id": "68543d5f94a142bb",
+            "id": "0d8c7356be417d69",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemes d'Aprenentatge Automatic/Tipus d'IA.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tipus d'IA"
+              "title": "Nova pestanya"
             }
           }
         ]
@@ -169,18 +165,21 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "68543d5f94a142bb",
+  "active": "bfaa022e327b787e",
   "lastOpenFiles": [
+    "Big Data Aplicat/Arquitectures de Big Data/Arquitectures de Big Data.md",
+    "Big Data Aplicat/Arquitectures de Big Data/Arquitectura Kappa.md",
+    "Imatges/Pasted image 20260921181015.png",
+    "Big Data Aplicat/Arquitectures de Big Data/Arquitectura Lambda.md",
+    "Big Data Aplicat/Big Data Aplicat.md",
+    "Big Data Aplicat/Arquitectures de Big Data/Tipus de processament.md",
+    "Big Data Aplicat/Arquitectures de Big Data/Els 5 pilars del Big Data.md",
+    "Imatges/Pasted image 20260921161853.png",
     "Sistemes d'Aprenentatge Automatic/Sistemes d'aprenentatge Automatic.md",
     "Sistemes de Big Data/Introduccio a les dades/Data Analysis i Data Analytics.md",
     "Sistemes de Big Data/Introduccio a les dades/Introducio a les dades.md",
     "Sistemes de Big Data/Sistemes de Big Data.md",
     "Sistemes de Big Data/Introduccio a les dades",
-    "Big Data Aplicat/Arquitectures de Big Data/Arquitectura Lambda.md",
-    "Big Data Aplicat/Arquitectures de Big Data/Arquitectures de Big Data.md",
-    "Big Data Aplicat/Arquitectures de Big Data/Els 5 pilars del Big Data.md",
-    "Big Data Aplicat/Arquitectures de Big Data/Tipus de processament.md",
-    "Big Data Aplicat/Big Data Aplicat.md",
     "Imatges/Pasted image 20260915181007.png",
     "Models de IA/Que es la IA.md",
     "Sistemes d'Aprenentatge Automatic/Tipus d'IA.md",
@@ -206,8 +205,6 @@
     "Bases de dades/SGBD/Relacional/Sistemes Relacionals.md",
     "Bases de dades/SGBD/Sistemes Gestors de Bases de Dades.md",
     "Bases de dades/Introduccio a les bases de dades.md",
-    "Bases de dades/Historia/Historia.md",
-    "Desplegament d'Aplicacions Web/Serveis Linux/Instalacio i configuracio de Docker.md",
     "Sin título.canvas",
     "Imatges/Pasted image 20250929195801.png",
     "Imatges/Pasted image 20250929195751.png",
@@ -216,8 +213,6 @@
     "Imatges/Pasted image 20250929195655.png",
     "Imatges/Pasted image 20250929195612.png",
     "Imatges/Pasted image 20250929195601.png",
-    "Imatges/Pasted image 20250527093446.png",
-    "Imatges/Pasted image 20250526115013.png",
     "Sense títol.canvas"
   ]
 }

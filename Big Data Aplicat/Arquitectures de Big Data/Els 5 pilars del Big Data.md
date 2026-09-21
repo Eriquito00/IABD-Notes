@@ -18,3 +18,10 @@ Seguint els marcs **WAF** (AWS i Azure Well-Architected Framework), es busca evi
 - **Baix acoblament**: Ús de microserveis, cues de missatges i APIs REST per poder substituir components sense afectar la resta.
 - **Decisions reversibles**: Aplicar el principi de les dues portes de Jeff Bezos per desfer decisions errònies fàcilment.
 - **Seguretat i confiabilitat**: Aplicar el principi del mínim privilegi i el model de responsabilitat compartida, tenint present la cita de Werner Vogels (_"Everything fails, all the time"_).
+
+## Tipus de dades
+
+Hi ha tipus de dades segons la nostra necessitat que es classifiquen entre:
+- Dades calentes: dades que es consulten constantment
+- Dades tèbies: dades que es consulten, però no diàriament
+- Dades fredes: dades que no es solen utilitzar.

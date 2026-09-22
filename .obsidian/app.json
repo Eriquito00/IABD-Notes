@@ -201,7 +201,10 @@
     "datalake",
     "SCV",
     "Consitency",
-    "Volume"
+    "Volume",
+    "GAN",
+    "VAE",
+    "Diffusion"
   ],
   "promptDelete": false
 }

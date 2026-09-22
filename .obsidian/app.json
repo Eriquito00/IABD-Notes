@@ -196,7 +196,12 @@
     "serving",
     "stream",
     "Log",
-    "Stream"
+    "Stream",
+    "pipeline",
+    "datalake",
+    "SCV",
+    "Consitency",
+    "Volume"
   ],
   "promptDelete": false
 }

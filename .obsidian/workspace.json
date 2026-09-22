@@ -8,16 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d8c7356be417d69",
+            "id": "f5670dcf4a1d77f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Big Data Aplicat/Arquitectures de Big Data/Arquitectura per capes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova pestanya"
+              "title": "Arquitectura per capes"
+            }
+          },
+          {
+            "id": "ecfb2afee0ff5499",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gràfica"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,13 +180,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bfaa022e327b787e",
+  "active": "ecfb2afee0ff5499",
   "lastOpenFiles": [
+    "Big Data Aplicat/Arquitectures de Big Data/Arquitectura per capes.md",
     "Big Data Aplicat/Arquitectures de Big Data/Arquitectures de Big Data.md",
+    "Big Data Aplicat/Big Data Aplicat.md",
     "Big Data Aplicat/Arquitectures de Big Data/Arquitectura Kappa.md",
     "Imatges/Pasted image 20260921181015.png",
     "Big Data Aplicat/Arquitectures de Big Data/Arquitectura Lambda.md",
-    "Big Data Aplicat/Big Data Aplicat.md",
     "Big Data Aplicat/Arquitectures de Big Data/Tipus de processament.md",
     "Big Data Aplicat/Arquitectures de Big Data/Els 5 pilars del Big Data.md",
     "Imatges/Pasted image 20260921161853.png",

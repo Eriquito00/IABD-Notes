@@ -7,3 +7,5 @@
 [Arquitectura Lambda](Arquitectura%20Lambda.md)
 
 [Arquitectura Kappa](Arquitectura%20Kappa.md)
+
+[Arquitectura per capes](Arquitectura%20per%20capes.md)

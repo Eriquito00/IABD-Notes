@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "57d12d724d8dd5ad",
+        "id": "6c7611aec857ed83",
         "type": "tabs",
         "children": [
           {
-            "id": "037aea3738fe53d5",
+            "id": "9ae3d5bc91849bed",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -155,13 +155,13 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://gemini.google.com/app?hl=es-ES",
-                "title": "Google Gemini",
+                "url": "https://gemini.google.com/app/82e9653f428d37fa?hl=es-ES",
+                "title": "Fórmulas de la Varianza Poblacional y Muestral - Google Gemini",
                 "mode": "webview"
               },
               "pinned": true,
               "icon": "globe-2",
-              "title": "Google Gemini"
+              "title": "Fórmulas de la Varianza Poblacional y Muestral - Google Gemini"
             }
           }
         ],
@@ -169,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.2999267578125,
+    "width": 398.2999267578125,
     "collapsed": true
   },
   "left-ribbon": {
@@ -186,10 +186,17 @@
   },
   "active": "bfaa022e327b787e",
   "lastOpenFiles": [
-    "Big Data Aplicat/Arquitectures de Big Data/Arquitectura per capes.md",
-    "Big Data Aplicat/Arquitectures de Big Data/Els 5 pilars del Big Data.md",
+    "Sistemes d'Aprenentatge Automatic/Estadistica/Estadistica.md",
+    "Sistemes d'Aprenentatge Automatic/Machine learning.md",
+    "Sistemes d'Aprenentatge Automatic/Sistemes d'aprenentatge Automatic.md",
+    "Sistemes d'Aprenentatge Automatic/Tipus d'IA.md",
+    "Sistemes d'Aprenentatge Automatic/Estadistica",
+    "Models de IA/Que es la IA.md",
+    "Models de IA/Models de IA.md",
     "Big Data Aplicat/Arquitectures de Big Data/Arquitectures de Big Data.md",
     "Big Data Aplicat/Big Data Aplicat.md",
+    "Big Data Aplicat/Arquitectures de Big Data/Arquitectura per capes.md",
+    "Big Data Aplicat/Arquitectures de Big Data/Els 5 pilars del Big Data.md",
     "Big Data Aplicat/Arquitectures de Big Data/Tipus de processament.md",
     "BMO/Profiles/BMO.md",
     "BMO/Profiles",
@@ -207,7 +214,6 @@
     "copilot/copilot-conversations/agent__hola@20260923_124401.md",
     "copilot/copilot-conversations/agent__una_pregunta_que_es_mejor_en_cuanto_arquitectura_big_data@20260923_124248.md",
     "copilot/copilot-conversations/agent__una_pregunta_que_es_mejor_en_cuanto_arquitectura_big_data@20260923_124109.md",
-    "copilot/copilot-conversations",
     "copilot/skills/obsidian-cli/SKILL.md",
     "copilot/skills/json-canvas/SKILL.md",
     "copilot/skills/json-canvas/references/EXAMPLES.md",
@@ -216,12 +222,6 @@
     "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
     "copilot/skills/obsidian-markdown/SKILL.md",
     "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
-    "copilot/skills/obsidian-markdown/references/EMBEDS.md",
-    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
-    "copilot/skills/openartifacts-publish/SKILL.md",
-    "copilot/skills/openartifacts-publish/themes/research-memo.md",
-    "copilot/skills/copilot-fetch-x/SKILL.md",
-    "copilot/skills/copilot-youtube-transcript/SKILL.md",
     "Imatges/Pasted image 20260921181015.png",
     "Imatges/Pasted image 20260921161853.png",
     "Imatges/Pasted image 20260915181007.png",

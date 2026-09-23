@@ -204,7 +204,14 @@
     "Volume",
     "GAN",
     "VAE",
-    "Diffusion"
+    "Diffusion",
+    "Underfitting",
+    "Overfitting",
+    "underfitting",
+    "amodal",
+    "Md",
+    "Md",
+    "Md"
   ],
   "promptDelete": false
 }

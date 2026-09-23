@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bda44df547b955a1",
+        "id": "57d12d724d8dd5ad",
         "type": "tabs",
         "children": [
           {
-            "id": "95e69a0e8b1b5f17",
+            "id": "037aea3738fe53d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Models de IA/Que es la IA.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Que es la IA"
+              "title": "Nova pestanya"
             }
           }
         ]
@@ -151,13 +147,29 @@
               "icon": "lucide-list",
               "title": "Esquema"
             }
+          },
+          {
+            "id": "fa4a07c426845fc3",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://gemini.google.com/app?hl=es-ES",
+                "title": "Google Gemini",
+                "mode": "webview"
+              },
+              "pinned": true,
+              "icon": "globe-2",
+              "title": "Google Gemini"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
+    "width": 278.2999267578125,
     "collapsed": true
   },
   "left-ribbon": {
@@ -172,47 +184,47 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "95e69a0e8b1b5f17",
+  "active": "bfaa022e327b787e",
   "lastOpenFiles": [
-    "Models de IA/Models de IA.md",
-    "Sense títol.md",
     "Big Data Aplicat/Arquitectures de Big Data/Arquitectura per capes.md",
+    "Big Data Aplicat/Arquitectures de Big Data/Els 5 pilars del Big Data.md",
     "Big Data Aplicat/Arquitectures de Big Data/Arquitectures de Big Data.md",
     "Big Data Aplicat/Big Data Aplicat.md",
-    "Big Data Aplicat/Arquitectures de Big Data/Arquitectura Kappa.md",
-    "Imatges/Pasted image 20260921181015.png",
-    "Big Data Aplicat/Arquitectures de Big Data/Arquitectura Lambda.md",
     "Big Data Aplicat/Arquitectures de Big Data/Tipus de processament.md",
-    "Big Data Aplicat/Arquitectures de Big Data/Els 5 pilars del Big Data.md",
+    "BMO/Profiles/BMO.md",
+    "BMO/Profiles",
+    "BMO",
+    "copilot/skills/copilot-read-pdf/SKILL.md",
+    "copilot/skills/copilot-read-pdf/read-pdf.ps1",
+    "copilot/skills/copilot-read-pdf/read-pdf.cmd",
+    "copilot/skills/copilot-read-pdf/read-pdf.sh",
+    "copilot/skills/copilot-read-pdf",
+    "copilot/skills/miyo-parse/SKILL.md",
+    "copilot/skills/miyo-parse/miyo-parse.cmd",
+    "copilot/skills/miyo-parse/miyo-parse.sh",
+    "copilot/skills/miyo-parse",
+    "copilot/copilot-conversations/agent__hola@20260923_125216.md",
+    "copilot/copilot-conversations/agent__hola@20260923_124401.md",
+    "copilot/copilot-conversations/agent__una_pregunta_que_es_mejor_en_cuanto_arquitectura_big_data@20260923_124248.md",
+    "copilot/copilot-conversations/agent__una_pregunta_que_es_mejor_en_cuanto_arquitectura_big_data@20260923_124109.md",
+    "copilot/copilot-conversations",
+    "copilot/skills/obsidian-cli/SKILL.md",
+    "copilot/skills/json-canvas/SKILL.md",
+    "copilot/skills/json-canvas/references/EXAMPLES.md",
+    "copilot/skills/obsidian-bases/SKILL.md",
+    "copilot/skills/obsidian-bases/references/EXAMPLES.md",
+    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
+    "copilot/skills/obsidian-markdown/SKILL.md",
+    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
+    "copilot/skills/obsidian-markdown/references/EMBEDS.md",
+    "copilot/skills/obsidian-markdown/references/CALLOUTS.md",
+    "copilot/skills/openartifacts-publish/SKILL.md",
+    "copilot/skills/openartifacts-publish/themes/research-memo.md",
+    "copilot/skills/copilot-fetch-x/SKILL.md",
+    "copilot/skills/copilot-youtube-transcript/SKILL.md",
+    "Imatges/Pasted image 20260921181015.png",
     "Imatges/Pasted image 20260921161853.png",
-    "Sistemes d'Aprenentatge Automatic/Sistemes d'aprenentatge Automatic.md",
-    "Sistemes de Big Data/Introduccio a les dades/Data Analysis i Data Analytics.md",
-    "Sistemes de Big Data/Introduccio a les dades/Introducio a les dades.md",
-    "Sistemes de Big Data/Sistemes de Big Data.md",
-    "Sistemes de Big Data/Introduccio a les dades",
     "Imatges/Pasted image 20260915181007.png",
-    "Models de IA/Que es la IA.md",
-    "Sistemes d'Aprenentatge Automatic/Tipus d'IA.md",
-    "Sense títol.base",
-    "hola bueas.md",
-    "Sense títol",
-    "Big Data Aplicat/Arquitectures de Big Data",
-    "Imatges",
-    "Programacio de IA/Programacio de IA.md",
-    "README.md",
-    "03_Big_Data.md",
-    "01_Introduccion_IA.md",
-    "02_Machine_Learning.md",
-    "Big Data Aplicat",
-    "Sistemes de Big Data",
-    "Programacio de IA",
-    "Sistemes d'Aprenentatge Automatic",
-    "Models de IA",
-    "00_Index.md",
-    "Bases de dades/SGBD/Relacional/MySQL/DDL MySQL.md",
-    "Bases de dades/SGBD/Relacional/MySQL/MySQL.md",
-    "Bases de dades/SGBD/Relacional/Sistemes Relacionals.md",
-    "Bases de dades/SGBD/Sistemes Gestors de Bases de Dades.md",
     "Sin título.canvas",
     "Imatges/Pasted image 20250929195801.png",
     "Imatges/Pasted image 20250929195751.png",

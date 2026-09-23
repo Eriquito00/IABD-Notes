@@ -2,5 +2,6 @@
   "openExternalURLs": true,
   "enableAdblocking": true,
   "searchEngine": "google",
-  "homepage": "https://www.google.com"
+  "homepage": "https://www.google.com",
+  "customSearchEngine": "https://duckduckgo.com/?q=%s"
 }

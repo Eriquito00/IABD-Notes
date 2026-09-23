@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "https://gemini.google.com/",
+      "displayName": "Gemini",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}

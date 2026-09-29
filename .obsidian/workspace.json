@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6c7611aec857ed83",
+        "id": "7dfb55ba7e0390ed",
         "type": "tabs",
         "children": [
           {
-            "id": "9ae3d5bc91849bed",
+            "id": "c3ac8d458a505b40",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -184,10 +184,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bfaa022e327b787e",
+  "active": "c3ac8d458a505b40",
   "lastOpenFiles": [
-    "Sistemes d'Aprenentatge Automatic/Estadistica/Estadistica.md",
+    "Sistemes de Big Data/Docker comandas/Docker comandas.md",
+    "Sistemes de Big Data/Sistemes de Big Data.md",
+    "Sistemes de Big Data/Docker comandas",
+    "Sistemes de Big Data/SQLServer/SQLServer.md",
+    "Sistemes de Big Data/SQLServer",
     "Sistemes d'Aprenentatge Automatic/Machine learning.md",
+    "Sistemes de Big Data/Introduccio a les dades/Introducio a les dades.md",
+    "Sistemes d'Aprenentatge Automatic/Estadistica/Estadistica.md",
     "Sistemes d'Aprenentatge Automatic/Sistemes d'aprenentatge Automatic.md",
     "Sistemes d'Aprenentatge Automatic/Tipus d'IA.md",
     "Sistemes d'Aprenentatge Automatic/Estadistica",
@@ -208,8 +214,6 @@
     "copilot/skills/copilot-read-pdf",
     "copilot/skills/miyo-parse/SKILL.md",
     "copilot/skills/miyo-parse/miyo-parse.cmd",
-    "copilot/skills/miyo-parse/miyo-parse.sh",
-    "copilot/skills/miyo-parse",
     "copilot/copilot-conversations/agent__hola@20260923_125216.md",
     "copilot/copilot-conversations/agent__hola@20260923_124401.md",
     "copilot/copilot-conversations/agent__una_pregunta_que_es_mejor_en_cuanto_arquitectura_big_data@20260923_124248.md",
@@ -218,10 +222,6 @@
     "copilot/skills/json-canvas/SKILL.md",
     "copilot/skills/json-canvas/references/EXAMPLES.md",
     "copilot/skills/obsidian-bases/SKILL.md",
-    "copilot/skills/obsidian-bases/references/EXAMPLES.md",
-    "copilot/skills/obsidian-bases/references/FUNCTIONS_REFERENCE.md",
-    "copilot/skills/obsidian-markdown/SKILL.md",
-    "copilot/skills/obsidian-markdown/references/PROPERTIES.md",
     "Imatges/Pasted image 20260921181015.png",
     "Imatges/Pasted image 20260921161853.png",
     "Imatges/Pasted image 20260915181007.png",

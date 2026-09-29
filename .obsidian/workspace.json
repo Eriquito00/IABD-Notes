@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7dfb55ba7e0390ed",
+        "id": "a194ef1f933d6186",
         "type": "tabs",
         "children": [
           {
-            "id": "c3ac8d458a505b40",
+            "id": "e3225576ad9266df",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -184,8 +184,16 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "c3ac8d458a505b40",
+  "active": "e3225576ad9266df",
   "lastOpenFiles": [
+    "Models de IA/Etica a la IA/Riscos/Riscos.md",
+    "Models de IA/Etica a la IA/Riscos/Riscos etics i socials.md",
+    "desktop.ini",
+    "Models de IA/Etica a la IA/Ètica a la IA.md",
+    "Models de IA/Etica a la IA/Riscos",
+    "Models de IA/Que es la IA.md",
+    "Models de IA/Models de IA.md",
+    "Models de IA/Etica a la IA",
     "Sistemes de Big Data/Docker comandas/Docker comandas.md",
     "Sistemes de Big Data/Sistemes de Big Data.md",
     "Sistemes de Big Data/Docker comandas",
@@ -197,8 +205,6 @@
     "Sistemes d'Aprenentatge Automatic/Sistemes d'aprenentatge Automatic.md",
     "Sistemes d'Aprenentatge Automatic/Tipus d'IA.md",
     "Sistemes d'Aprenentatge Automatic/Estadistica",
-    "Models de IA/Que es la IA.md",
-    "Models de IA/Models de IA.md",
     "Big Data Aplicat/Arquitectures de Big Data/Arquitectures de Big Data.md",
     "Big Data Aplicat/Big Data Aplicat.md",
     "Big Data Aplicat/Arquitectures de Big Data/Arquitectura per capes.md",
@@ -210,18 +216,12 @@
     "copilot/skills/copilot-read-pdf/SKILL.md",
     "copilot/skills/copilot-read-pdf/read-pdf.ps1",
     "copilot/skills/copilot-read-pdf/read-pdf.cmd",
-    "copilot/skills/copilot-read-pdf/read-pdf.sh",
-    "copilot/skills/copilot-read-pdf",
     "copilot/skills/miyo-parse/SKILL.md",
-    "copilot/skills/miyo-parse/miyo-parse.cmd",
     "copilot/copilot-conversations/agent__hola@20260923_125216.md",
     "copilot/copilot-conversations/agent__hola@20260923_124401.md",
     "copilot/copilot-conversations/agent__una_pregunta_que_es_mejor_en_cuanto_arquitectura_big_data@20260923_124248.md",
     "copilot/copilot-conversations/agent__una_pregunta_que_es_mejor_en_cuanto_arquitectura_big_data@20260923_124109.md",
     "copilot/skills/obsidian-cli/SKILL.md",
-    "copilot/skills/json-canvas/SKILL.md",
-    "copilot/skills/json-canvas/references/EXAMPLES.md",
-    "copilot/skills/obsidian-bases/SKILL.md",
     "Imatges/Pasted image 20260921181015.png",
     "Imatges/Pasted image 20260921161853.png",
     "Imatges/Pasted image 20260915181007.png",

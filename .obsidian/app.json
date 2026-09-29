@@ -213,7 +213,11 @@
     "Md",
     "Md",
     "Flags",
-    "p"
+    "p",
+    "EthicNet",
+    "AI4People",
+    "Partnership",
+    "AESIA"
   ],
   "promptDelete": false
 }

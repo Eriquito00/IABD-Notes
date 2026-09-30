@@ -5,3 +5,7 @@ Per poder minimitzar els riscos i impactes adversos de la IA cal saber quins só
 - Altres riscos relatius a la fiabilitat o robustesa.
 
 [Riscos etics i socials](Riscos%20etics%20i%20socials.md)
+
+[Riscos legals](Riscos%20legals.md)
+
+[Altres riscos](Altres%20riscos.md)

@@ -1,5 +1,4 @@
 # Riscos etics i socials
-
 ## Biaixos
 En IA, un biaix és una predisposició d'un sistema d'IA cap a determinats resultats a discriminar a certs col·lectius. Com per exemple encara que no li hem ensenyat cert comportament la IA aprèn per exemple a; discriminar a les dones, col·lectius LGTB o gent de color.
 

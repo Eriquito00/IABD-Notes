@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "06fd7cc46cc9a4b3",
+        "id": "9051f4e60a1ce0d3",
         "type": "tabs",
         "children": [
           {
-            "id": "9d3aa4e680aa2c5d",
+            "id": "2bffd669b8db3b2a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemes de Big Data/SQLServer/SQLServer.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SQLServer"
+              "title": "Nova pestanya"
             }
           }
         ]
@@ -188,12 +184,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9d3aa4e680aa2c5d",
+  "active": "2bffd669b8db3b2a",
   "lastOpenFiles": [
+    "Sistemes de Big Data/SQLServer/SQLServer.md",
     "Sistemes de Big Data/Sistemes de Big Data.md",
     "Sistemes de Big Data/Introduccio a les dades/Introducio a les dades.md",
     "Sistemes de Big Data/Introduccio a les dades/Data Analysis i Data Analytics.md",
-    "Sistemes de Big Data/SQLServer/SQLServer.md",
     "Sistemes de Big Data/SQLServer",
     "Sistemes de Big Data/Docker comandas/Docker comandas.md",
     "Programacio de IA/test/Sense títol.ipynb",

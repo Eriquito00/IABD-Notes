@@ -230,7 +230,8 @@
     "OLTP",
     "ETL",
     "OLAP",
-    "ETL"
+    "ETL",
+    "faker"
   ],
   "promptDelete": false,
   "propertiesInDocument": "hidden"

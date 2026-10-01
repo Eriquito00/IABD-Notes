@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "C:\\Users\\ericm\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\python.exe",
+    "-m",
+    "ipykernel_launcher",
+    "-f",
+    "{connection_file}"
+  ],
+  "display_name": "Python (python)",
+  "language": "python",
+  "metadata": {
+    "jupymd": {
+      "managed": true,
+      "interpreter": "C:\\Users\\ericm\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\python.exe"
+    }
+  }
+}

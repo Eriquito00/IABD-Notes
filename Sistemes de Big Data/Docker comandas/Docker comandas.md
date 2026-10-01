@@ -42,3 +42,21 @@ docker build -t (nom de la imatge que volem) .
 docker images
 ```
 
+## Veure contenidors encesos
+
+```
+docker ps
+```
+
+## Para i elimina el contenidor
+
+```
+docker compose down
+```
+
+## Llegeix el "docker-compose.yaml" i les variables i crea el contenidor ences
+
+```
+docker compose up -d 
+```
+

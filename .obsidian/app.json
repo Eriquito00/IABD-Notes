@@ -218,7 +218,20 @@
     "AI4People",
     "Partnership",
     "AESIA",
-    "Explicabilitat"
+    "Explicabilitat",
+    "SQLServer",
+    "SELECT",
+    "OLAP",
+    "OLTP",
+    "Update",
+    "Delete",
+    "Select",
+    "SELECT",
+    "OLTP",
+    "ETL",
+    "OLAP",
+    "ETL"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "propertiesInDocument": "hidden"
 }

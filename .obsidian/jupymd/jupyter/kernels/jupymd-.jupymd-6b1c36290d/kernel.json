@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "C:\\Users\\ericm\\Documents\\IABD\\IABD-Notes\\.jupymd\\Scripts\\python.exe",
+    "-m",
+    "ipykernel_launcher",
+    "-f",
+    "{connection_file}"
+  ],
+  "display_name": "Python (.jupymd)",
+  "language": "python",
+  "metadata": {
+    "jupymd": {
+      "managed": true,
+      "interpreter": "C:\\Users\\ericm\\Documents\\IABD\\IABD-Notes\\.jupymd\\Scripts\\python.exe"
+    }
+  }
+}

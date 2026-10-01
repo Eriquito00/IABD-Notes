@@ -1,1 +1,1 @@
-# Programació de IA
+# Programacio de IA

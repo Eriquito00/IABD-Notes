@@ -11,10 +11,10 @@
             "id": "2bffd669b8db3b2a",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nova pestanya"
+              "icon": "lucide-git-fork",
+              "title": "Vista gràfica"
             }
           }
         ]

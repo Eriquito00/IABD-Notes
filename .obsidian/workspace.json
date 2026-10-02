@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9051f4e60a1ce0d3",
+        "id": "7ae961b588bf5c07",
         "type": "tabs",
         "children": [
           {
-            "id": "2bffd669b8db3b2a",
+            "id": "4f07f61331134998",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gràfica"
+              "type": "markdown",
+              "state": {
+                "file": "Sistemes d'Aprenentatge Automatic/Estadistica/Estadística Univariant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estadística Univariant"
             }
           }
         ]
@@ -184,8 +188,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2bffd669b8db3b2a",
+  "active": "4f07f61331134998",
   "lastOpenFiles": [
+    "Imatges/Pasted image 20261002190652.png",
+    "Imatges/Pasted image 20261002190014.png",
+    "Sistemes d'Aprenentatge Automatic/Estadistica/Estadistica.md",
+    "Sistemes d'Aprenentatge Automatic/Estadistica/Estadística Univariant.md",
     "Sistemes de Big Data/SQLServer/SQLServer.md",
     "Sistemes de Big Data/Sistemes de Big Data.md",
     "Sistemes de Big Data/Introduccio a les dades/Introducio a les dades.md",
@@ -211,7 +219,6 @@
     "Sistemes de Big Data/Docker comandas",
     "Sistemes de Big Data/SQLServer",
     "Sistemes d'Aprenentatge Automatic/Machine learning.md",
-    "Sistemes d'Aprenentatge Automatic/Estadistica/Estadistica.md",
     "Sistemes d'Aprenentatge Automatic/Sistemes d'aprenentatge Automatic.md",
     "Sistemes d'Aprenentatge Automatic/Tipus d'IA.md",
     "Sistemes d'Aprenentatge Automatic/Estadistica",
@@ -220,7 +227,6 @@
     "Big Data Aplicat/Arquitectures de Big Data/Arquitectura per capes.md",
     "Big Data Aplicat/Arquitectures de Big Data/Els 5 pilars del Big Data.md",
     "Big Data Aplicat/Arquitectures de Big Data/Tipus de processament.md",
-    "BMO/Profiles/BMO.md",
     "Imatges/Pasted image 20260921181015.png",
     "Imatges/Pasted image 20260921161853.png",
     "Imatges/Pasted image 20260915181007.png",
@@ -231,7 +237,6 @@
     "Imatges/Pasted image 20250929195706.png",
     "Imatges/Pasted image 20250929195655.png",
     "Imatges/Pasted image 20250929195612.png",
-    "Imatges/Pasted image 20250929195601.png",
     "Sense títol.canvas"
   ]
 }

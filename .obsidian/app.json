@@ -231,7 +231,11 @@
     "ETL",
     "OLAP",
     "ETL",
-    "faker"
+    "faker",
+    "OUTLIERS",
+    "Outliers",
+    "Boxplot",
+    "outlier"
   ],
   "promptDelete": false,
   "propertiesInDocument": "hidden"

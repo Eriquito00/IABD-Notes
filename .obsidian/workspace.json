@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7ae961b588bf5c07",
+        "id": "b3f5795114865755",
         "type": "tabs",
         "children": [
           {
-            "id": "4f07f61331134998",
+            "id": "bb3e3d260a9bd4f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemes d'Aprenentatge Automatic/Estadistica/Estadística Univariant.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Estadística Univariant"
+              "title": "Nova pestanya"
             }
           }
         ]
@@ -188,7 +184,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4f07f61331134998",
+  "active": "bfaa022e327b787e",
   "lastOpenFiles": [
     "Imatges/Pasted image 20261002190652.png",
     "Imatges/Pasted image 20261002190014.png",

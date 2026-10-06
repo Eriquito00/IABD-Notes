@@ -235,7 +235,13 @@
     "OUTLIERS",
     "Outliers",
     "Boxplot",
-    "outlier"
+    "outlier",
+    "explicabilitat",
+    "Scrapping",
+    "nudificació",
+    "adiccions",
+    "filters",
+    "Deepfakes"
   ],
   "promptDelete": false,
   "propertiesInDocument": "hidden"

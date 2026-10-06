@@ -16,4 +16,4 @@ Hi ha algunes organitzacions que governen i impulsen l'ètica a la IA:
 - Oficina d'IA de la UE (Unio Europea)
 - AESIA (Española)
 
-[Riscos](Riscos/Riscos.md)
+[Riscos](Riscos.md)

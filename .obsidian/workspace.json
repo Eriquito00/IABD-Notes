@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "89404c8a374f2836",
+            "id": "1b88157e133bd26a",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nova pestanya"
+              "icon": "lucide-git-fork",
+              "title": "Vista gràfica"
             }
           }
         ]
@@ -184,8 +184,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bfaa022e327b787e",
+  "active": "1b88157e133bd26a",
   "lastOpenFiles": [
+    "Programacio de IA/Python/Virtual Environment.md",
+    "Programacio de IA/Python/Python.md",
+    "Programacio de IA/Programacio de IA.md",
+    "Programacio de IA/Python",
     "Sistemes de Big Data/Bases de dades/Bases de dades.md",
     "Sistemes de Big Data/Bases de dades/Relacional/SQLServer/SQLServer.md",
     "Sistemes de Big Data/Sistemes de Big Data.md",
@@ -216,16 +220,12 @@
     "Programacio de IA/test/hola soy un test.md",
     "Programacio de IA/test/Sense títol.md",
     "Programacio de IA/test/hola soy un test.ipynb",
-    "Programacio de IA/Programacio de IA.md",
     "Programacio de IA/test",
     "Models de IA/Etica a la IA/Riscos legals.md",
     "Models de IA/Etica a la IA/Riscos etics i socials.md",
     "desktop.ini",
     "Models de IA/Etica a la IA/Ètica a la IA.md",
-    "Models de IA/Etica a la IA/Riscos",
     "Models de IA/Que es la IA.md",
-    "Sistemes d'Aprenentatge Automatic/Sistemes d'aprenentatge Automatic.md",
-    "Sistemes d'Aprenentatge Automatic/Tipus d'IA.md",
     "Imatges/Pasted image 20260921181015.png",
     "Imatges/Pasted image 20260921161853.png",
     "Imatges/Pasted image 20260915181007.png",

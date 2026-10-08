@@ -1,4 +1,4 @@
-# SQLServer
+# OLTP i OLAP
 
 SQLServer és una base de dades OLTP que és una base de dades que és:
 - Insert, Update, Delete i Select
@@ -17,4 +17,3 @@ Les bases de dades tenen un fitxer de transaccions que són les transaccions que
 
 > [!NOTE]
 > A Python existeix una llibreria que es diu "faker" que ens permet crear dades massives vàlides aleatòries per provar les nostres bases de dades.
-

@@ -241,7 +241,10 @@
     "nudificació",
     "adiccions",
     "filters",
-    "Deepfakes"
+    "Deepfakes",
+    "CodiPostal",
+    "CodiPostal",
+    "Profiler"
   ],
   "promptDelete": false,
   "propertiesInDocument": "hidden"

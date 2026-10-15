@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0876f7634f18bc43",
+        "id": "92e130bd6232059b",
         "type": "tabs",
         "children": [
           {
-            "id": "1b88157e133bd26a",
+            "id": "1f3f32584a728677",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gràfica"
+              "icon": "lucide-file",
+              "title": "Nova pestanya"
             }
           }
         ]
@@ -184,14 +184,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "1b88157e133bd26a",
+  "active": "bfaa022e327b787e",
   "lastOpenFiles": [
+    "Sistemes de Big Data/Bases de dades/Relacional/SQLServer/SQLServer.md",
+    "Sistemes de Big Data/Bases de dades/Relacional/SQLServer/SQL analitic.md",
+    "Models de IA/Models de IA.md",
+    "Models de IA/Que es la IA.md",
     "Programacio de IA/Python/Virtual Environment.md",
     "Programacio de IA/Python/Python.md",
     "Programacio de IA/Programacio de IA.md",
     "Programacio de IA/Python",
     "Sistemes de Big Data/Bases de dades/Bases de dades.md",
-    "Sistemes de Big Data/Bases de dades/Relacional/SQLServer/SQLServer.md",
     "Sistemes de Big Data/Sistemes de Big Data.md",
     "Sistemes de Big Data/Introduccio a les dades/Introducio a les dades.md",
     "Sistemes de Big Data/Bases de dades",
@@ -209,7 +212,6 @@
     "Models de IA/IA fiable i legal/IA fiable.md",
     "Models de IA/Etica a la IA/Altres riscos.md",
     "Models de IA/Etica a la IA/Riscos.md",
-    "Models de IA/Models de IA.md",
     "Models de IA/IA fiable i legal",
     "Models de IA/Sense títol/desktop.ini",
     "Imatges/Pasted image 20261002190652.png",
@@ -224,8 +226,6 @@
     "Models de IA/Etica a la IA/Riscos legals.md",
     "Models de IA/Etica a la IA/Riscos etics i socials.md",
     "desktop.ini",
-    "Models de IA/Etica a la IA/Ètica a la IA.md",
-    "Models de IA/Que es la IA.md",
     "Imatges/Pasted image 20260921181015.png",
     "Imatges/Pasted image 20260921161853.png",
     "Imatges/Pasted image 20260915181007.png",

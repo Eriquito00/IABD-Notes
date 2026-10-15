@@ -246,7 +246,15 @@
     "CodiPostal",
     "Profiler",
     "env",
-    "install"
+    "install",
+    "NoSQL",
+    "ACID",
+    "db",
+    "Redis",
+    "NewSQL",
+    "Available",
+    "Basicaly",
+    "BA"
   ],
   "promptDelete": false,
   "propertiesInDocument": "hidden"

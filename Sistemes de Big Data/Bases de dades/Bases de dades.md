@@ -2,6 +2,6 @@
 
 Com a base de dades relacional tenim:
 
-[SQLServer](Bases%20de%20dades/Relacional/SQLServer/SQLServer.md)
+[SQL](Relacional/SQL.md)
 
 [NoSQL](No%20relacional/NoSQL.md)

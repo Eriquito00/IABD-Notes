@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0a926f43cad4b601",
+        "id": "3ae615795b867178",
         "type": "tabs",
         "children": [
           {
-            "id": "8c23267144976e83",
+            "id": "d2a69b8f1d8328ca",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -184,10 +184,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "8c23267144976e83",
+  "active": "bfaa022e327b787e",
   "lastOpenFiles": [
+    "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/MongoDB.md",
     "Sistemes de Big Data/Bases de dades/No relacional/NoSQL.md",
+    "Sistemes de Big Data/Bases de dades/No relacional/MongoDB",
+    "Sistemes de Big Data/Bases de dades/Relacional/SQL.md",
     "Sistemes de Big Data/Bases de dades/Bases de dades.md",
+    "desktop.ini",
     "Sistemes de Big Data/Bases de dades/No relacional",
     "Sistemes de Big Data/Bases de dades/Relacional/SQLServer/SQLServer.md",
     "Sistemes de Big Data/Bases de dades/Relacional/SQLServer/SQL analitic.md",
@@ -222,10 +226,6 @@
     "Sistemes de Big Data/Docker comandas/Docker comandas.md",
     "Programacio de IA/test/Sense títol.ipynb",
     "Programacio de IA/test/hola soy un test.md",
-    "Programacio de IA/test/Sense títol.md",
-    "Programacio de IA/test/hola soy un test.ipynb",
-    "Programacio de IA/test",
-    "Models de IA/Etica a la IA/Riscos legals.md",
     "Imatges/Pasted image 20260921181015.png",
     "Imatges/Pasted image 20260921161853.png",
     "Imatges/Pasted image 20260915181007.png",

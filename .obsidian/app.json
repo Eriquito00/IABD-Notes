@@ -254,7 +254,10 @@
     "NewSQL",
     "Available",
     "Basicaly",
-    "BA"
+    "BA",
+    "binary",
+    "cloud",
+    "Atlas"
   ],
   "promptDelete": false,
   "propertiesInDocument": "hidden"

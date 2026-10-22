@@ -1,4 +1,7 @@
 # NoSQL
+
+[MongoDB](MongoDB/MongoDB.md)
+
 El terme de NoSQL surt perquè els SGBD relacionals no es van dissenyar pensant en l'escalabilitat ni en la flexibilitat que demanen les modificacions freqüents.
 
 Avui dia el món accelera molt i a les bases de dades relacionals els hi costava molt fer aquests canvis i portar-los a producció. NoSQL significa Not Only SQL. Les db relacionals segueixen els principis ACID.

@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5d6599864d8e6a8e",
+        "id": "81f15aa3c91ef5cd",
         "type": "tabs",
         "children": [
           {
-            "id": "2388063ff4d8ba73",
+            "id": "ecd8bba3b5dc010e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/Modelat Documental MongoDB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modelat Documental MongoDB"
-            }
-          },
-          {
-            "id": "c492f7bf153e5391",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gràfica"
+              "icon": "lucide-file",
+              "title": "Nova pestanya"
             }
           }
         ]
@@ -198,7 +184,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2388063ff4d8ba73",
+  "active": "bfaa022e327b787e",
   "lastOpenFiles": [
     "Imatges/Pasted image 20261029174442.png",
     "Imatges/Pasted image 20261029173939.png",

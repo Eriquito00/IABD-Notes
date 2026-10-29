@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "81f15aa3c91ef5cd",
+        "id": "6984aad77acc6a47",
         "type": "tabs",
         "children": [
           {
-            "id": "ecd8bba3b5dc010e",
+            "id": "6cacc7175593b2c1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -186,12 +186,15 @@
   },
   "active": "bfaa022e327b787e",
   "lastOpenFiles": [
+    "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/Definir la carrega.md",
+    "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/Modelat Documental MongoDB.md",
+    "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/Aplicar patrons.md",
+    "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/Modelar relacions.md",
+    "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/Diferencies de MongoDB amb SQL.md",
     "Imatges/Pasted image 20261029174442.png",
     "Imatges/Pasted image 20261029173939.png",
     "Imatges/Pasted image 20261029173614.png",
-    "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/Modelat Documental MongoDB.md",
     "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/MongoDB.md",
-    "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/Diferencies de MongoDB amb SQL.md",
     "Sistemes de Big Data/Bases de dades/No relacional/NoSQL.md",
     "Sistemes de Big Data/Bases de dades/No relacional/MongoDB",
     "Sistemes de Big Data/Bases de dades/Relacional/SQL.md",
@@ -220,8 +223,6 @@
     "Imatges/Pasted image 20261006202246.png",
     "Imatges/Pasted image 20261006200442.png",
     "Models de IA/IA fiable i legal/IA fiable i legal.md",
-    "Models de IA/IA fiable i legal/IA fiable.md",
-    "Models de IA/Etica a la IA/Altres riscos.md",
     "Models de IA/IA fiable i legal",
     "Models de IA/Sense títol/desktop.ini",
     "Imatges/Pasted image 20261002190652.png",
@@ -232,7 +233,6 @@
     "Imatges/Pasted image 20260921161853.png",
     "Imatges/Pasted image 20260915181007.png",
     "Sin título.canvas",
-    "Imatges/Pasted image 20250929195801.png",
     "Sense títol.canvas"
   ]
 }

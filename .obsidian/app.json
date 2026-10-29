@@ -257,7 +257,15 @@
     "BA",
     "binary",
     "cloud",
-    "Atlas"
+    "Atlas",
+    "id ",
+    "Subdocuments",
+    "$lookup",
+    "_id",
+    "id",
+    "ids",
+    "logs",
+    "bucket"
   ],
   "promptDelete": false,
   "propertiesInDocument": "hidden"

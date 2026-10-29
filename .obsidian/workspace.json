@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "3ae615795b867178",
+        "id": "5d6599864d8e6a8e",
         "type": "tabs",
         "children": [
           {
-            "id": "d2a69b8f1d8328ca",
+            "id": "2388063ff4d8ba73",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/Modelat Documental MongoDB.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova pestanya"
+              "title": "Modelat Documental MongoDB"
+            }
+          },
+          {
+            "id": "c492f7bf153e5391",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gràfica"
             }
           }
         ]
@@ -184,9 +198,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bfaa022e327b787e",
+  "active": "2388063ff4d8ba73",
   "lastOpenFiles": [
+    "Imatges/Pasted image 20261029174442.png",
+    "Imatges/Pasted image 20261029173939.png",
+    "Imatges/Pasted image 20261029173614.png",
+    "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/Modelat Documental MongoDB.md",
     "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/MongoDB.md",
+    "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/Diferencies de MongoDB amb SQL.md",
     "Sistemes de Big Data/Bases de dades/No relacional/NoSQL.md",
     "Sistemes de Big Data/Bases de dades/No relacional/MongoDB",
     "Sistemes de Big Data/Bases de dades/Relacional/SQL.md",
@@ -217,22 +236,17 @@
     "Models de IA/IA fiable i legal/IA fiable i legal.md",
     "Models de IA/IA fiable i legal/IA fiable.md",
     "Models de IA/Etica a la IA/Altres riscos.md",
-    "Models de IA/Etica a la IA/Riscos.md",
     "Models de IA/IA fiable i legal",
     "Models de IA/Sense títol/desktop.ini",
     "Imatges/Pasted image 20261002190652.png",
     "Imatges/Pasted image 20261002190014.png",
     "Sistemes de Big Data/Bases de dades/Relacional/SQLServer",
-    "Sistemes de Big Data/Docker comandas/Docker comandas.md",
     "Programacio de IA/test/Sense títol.ipynb",
-    "Programacio de IA/test/hola soy un test.md",
     "Imatges/Pasted image 20260921181015.png",
     "Imatges/Pasted image 20260921161853.png",
     "Imatges/Pasted image 20260915181007.png",
     "Sin título.canvas",
     "Imatges/Pasted image 20250929195801.png",
-    "Imatges/Pasted image 20250929195751.png",
-    "Imatges/Pasted image 20250929195718.png",
     "Sense títol.canvas"
   ]
 }

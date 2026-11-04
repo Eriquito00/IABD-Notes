@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9172f07a3c53fd95",
+        "id": "382e9c16a1cd5330",
         "type": "tabs",
         "children": [
           {
-            "id": "2d715fa0b84a3f87",
+            "id": "3d9dc92184d204f2",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -184,7 +184,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "2d715fa0b84a3f87",
+  "active": "bfaa022e327b787e",
   "lastOpenFiles": [
     "Programacio de IA/Programacio de IA.md",
     "Sin título.md",

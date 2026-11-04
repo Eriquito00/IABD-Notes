@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6984aad77acc6a47",
+        "id": "9172f07a3c53fd95",
         "type": "tabs",
         "children": [
           {
-            "id": "6cacc7175593b2c1",
+            "id": "2d715fa0b84a3f87",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nova pestanya"
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -42,7 +42,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de fitxers"
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 239.921875
   },
   "right": {
     "id": "9565c7424373b453",
@@ -174,20 +174,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Obre el selector ràpid": false,
-      "graph:Obre la vista gràfica": false,
-      "canvas:Crea un llenç nou": false,
-      "daily-notes:Obre la nota d'avui": false,
-      "templates:Inserir plantilla": false,
-      "command-palette:Obre la paleta d'ordres": false,
-      "bases:Crea una base nova": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bfaa022e327b787e",
+  "active": "2d715fa0b84a3f87",
   "lastOpenFiles": [
-    "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/Definir la carrega.md",
+    "Programacio de IA/Programacio de IA.md",
+    "Sin título.md",
+    "Sin título.canvas",
+    "Sistemes d_Aprenentatge Automatic/Machine learning.md",
+    "README.md",
+    "Sistemes d_Aprenentatge Automatic/Estadistica/Estadística Univariant.md",
+    "Sistemes d_Aprenentatge Automatic/Estadistica/Estadistica.md",
+    "Sistemes d_Aprenentatge Automatic/Tipus d_IA.md",
+    "Sistemes d_Aprenentatge Automatic/Sistemes d_aprenentatge Automatic.md",
+    "Sistemes d_Aprenentatge Automatic/Estadistica",
+    "Sistemes d_Aprenentatge Automatic",
+    "file:/home/eric/Descargas/ubuntu_info.md",
     "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/Modelat Documental MongoDB.md",
+    "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/Definir la carrega.md",
     "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/Aplicar patrons.md",
     "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/Modelar relacions.md",
     "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/Diferencies de MongoDB amb SQL.md",
@@ -207,32 +219,19 @@
     "Models de IA/Que es la IA.md",
     "Programacio de IA/Python/Virtual Environment.md",
     "Programacio de IA/Python/Python.md",
-    "Programacio de IA/Programacio de IA.md",
     "Programacio de IA/Python",
     "Sistemes de Big Data/Sistemes de Big Data.md",
-    "Sistemes de Big Data/Introduccio a les dades/Introducio a les dades.md",
     "Sistemes de Big Data/Bases de dades",
-    "Sistemes de Big Data/Introduccio a les dades/Data Analysis i Data Analytics.md",
-    "Sistemes de Big Data/Bases de dades/Relacional/SQLServer/Indexos.md",
     "Sistemes de Big Data/Bases de dades/Relacional",
-    "Sistemes de Big Data/Bases de dades/Relacional/SQLServer/OLTP i OLAP.md",
-    "Sistemes d'Aprenentatge Automatic/Estadistica/Estadística Univariant.md",
-    "Sistemes d'Aprenentatge Automatic/Machine learning.md",
-    "Sistemes d'Aprenentatge Automatic/Estadistica/Estadistica.md",
-    "Models de IA/IA fiable i legal/Marc legal.md",
     "Imatges/Pasted image 20261006202246.png",
     "Imatges/Pasted image 20261006200442.png",
-    "Models de IA/IA fiable i legal/IA fiable i legal.md",
     "Models de IA/IA fiable i legal",
     "Models de IA/Sense títol/desktop.ini",
     "Imatges/Pasted image 20261002190652.png",
     "Imatges/Pasted image 20261002190014.png",
-    "Sistemes de Big Data/Bases de dades/Relacional/SQLServer",
-    "Programacio de IA/test/Sense títol.ipynb",
     "Imatges/Pasted image 20260921181015.png",
     "Imatges/Pasted image 20260921161853.png",
     "Imatges/Pasted image 20260915181007.png",
-    "Sin título.canvas",
     "Sense títol.canvas"
   ]
 }

@@ -11,10 +11,10 @@
             "id": "3d9dc92184d204f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -184,8 +184,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bfaa022e327b787e",
+  "active": "3d9dc92184d204f2",
   "lastOpenFiles": [
+    "Sistemes de Big Data/Bases de dades/desktop.ini",
+    "Sistemes d'Aprenentatge Automatic/Estadistica/desktop.ini",
+    "desktop.ini",
+    "Models de IA/Etica a la IA/desktop.ini",
     "Programacio de IA/Programacio de IA.md",
     "Sin título.md",
     "Sin título.canvas",
@@ -211,7 +215,6 @@
     "Sistemes de Big Data/Bases de dades/No relacional/MongoDB",
     "Sistemes de Big Data/Bases de dades/Relacional/SQL.md",
     "Sistemes de Big Data/Bases de dades/Bases de dades.md",
-    "desktop.ini",
     "Sistemes de Big Data/Bases de dades/No relacional",
     "Sistemes de Big Data/Bases de dades/Relacional/SQLServer/SQLServer.md",
     "Sistemes de Big Data/Bases de dades/Relacional/SQLServer/SQL analitic.md",
@@ -225,8 +228,6 @@
     "Sistemes de Big Data/Bases de dades/Relacional",
     "Imatges/Pasted image 20261006202246.png",
     "Imatges/Pasted image 20261006200442.png",
-    "Models de IA/IA fiable i legal",
-    "Models de IA/Sense títol/desktop.ini",
     "Imatges/Pasted image 20261002190652.png",
     "Imatges/Pasted image 20261002190014.png",
     "Imatges/Pasted image 20260921181015.png",

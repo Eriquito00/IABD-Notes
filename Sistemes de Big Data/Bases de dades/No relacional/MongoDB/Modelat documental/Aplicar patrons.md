@@ -19,7 +19,7 @@ Per exemple si tenim un producte amb diferent preu segons el país, doncs creare
 ### Patró de versionat de documents
 Ens permet poder tenir dues versions d'un document.
 
-![](../../../../Imatges/Pasted%20image%2020261029173939.png)
+![](../../../../../Imatges/Pasted%20image%2020261029173939.png)
 
 ### Patró de versionat d'esquema
 Podem tenir diferents versions d'un esquema de document.
@@ -71,7 +71,7 @@ Documents amb similitud però són diferents.
 ### Patró subconjunt
 Creant un document amb les dades que més es consulten i després crear un document de detalls amb la resta de dades.
 
-![](../../../../Imatges/Pasted%20image%2020261029174442.png)
+![](../../../../../Imatges/Pasted%20image%2020261029174442.png)
 ### Patró calculat
 Volem evitar fer constantment recàlculs de dades de lectura.
 
@@ -113,4 +113,4 @@ NOU DOC
 ```
 ### Altres patrons i casos d'ús
 
-![](../../../../Imatges/Pasted%20image%2020261029173614.png)
+![](../../../../../Imatges/Pasted%20image%2020261029173614.png)

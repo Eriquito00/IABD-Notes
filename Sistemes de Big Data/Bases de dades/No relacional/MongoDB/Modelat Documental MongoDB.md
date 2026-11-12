@@ -2,9 +2,9 @@
 
 El modelatge a MongoDB seria equivalent als models entitat relació dels models relacionals. A MongoDB es fan a nivell de document directament, no com a SQL, a SQL fem un modelatge a nivell de taules, que serien les col·leccions de MongoDB, però a MongoDB es fan a nivell de document.
 ## Com fer modelatge a BD documentals
-1. [Definir la carrega](Definir%20la%20carrega.md)
-2. [Modelar relacions](Modelar%20relacions.md)
-3. [Aplicar patrons](Aplicar%20patrons.md)
+1. [Definir la carrega](Modelat%20documental/Definir%20la%20carrega.md)
+2. [Modelar relacions](Modelat%20documental/Modelar%20relacions.md)
+3. [Aplicar patrons](Modelat%20documental/Aplicar%20patrons.md)
 
 Els documents de Mongo poden ser polimòrfics, per tant, un document pot tenir certs camps que altre no en té.
 ## Validació d'esquemes

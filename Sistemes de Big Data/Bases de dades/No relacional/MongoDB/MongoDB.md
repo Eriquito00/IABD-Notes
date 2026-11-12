@@ -4,3 +4,6 @@
 
 [Modelat Documental MongoDB](Modelat%20Documental%20MongoDB.md)
 
+[Rendiment MongoDB](Rendiment%20MongoDB.md)
+
+[Replicació i particionament MongoDB](Replicació%20i%20particionament%20MongoDB.md)

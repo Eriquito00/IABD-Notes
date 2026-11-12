@@ -265,7 +265,9 @@
     "id",
     "ids",
     "logs",
-    "bucket"
+    "bucket",
+    "Range",
+    "ESR"
   ],
   "promptDelete": false,
   "propertiesInDocument": "hidden"

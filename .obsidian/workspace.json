@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2c3cbfa38284a4f4",
+        "id": "44c806848b876653",
         "type": "tabs",
         "children": [
           {
-            "id": "cde37d76c41de8ef",
+            "id": "b0b6e9da6cd07845",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -184,10 +184,17 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bfaa022e327b787e",
+  "active": "b0b6e9da6cd07845",
   "lastOpenFiles": [
-    "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/Replicació i particionament MongoDB.md",
+    "Sistemes de Big Data/Bases de dades/No relacional/Neo4j/Neo4j.md",
+    "Sistemes de Big Data/Bases de dades/No relacional/Neo4j/Aplicacions i practica Neo4j.md",
+    "Sistemes de Big Data/Bases de dades/No relacional/Neo4j/Consultes avançades Neo4j.md",
+    "Sistemes de Big Data/Bases de dades/No relacional/Neo4j/Neo4j i AuraDB.md",
+    "Sistemes de Big Data/Bases de dades/No relacional/Neo4j/Models de grafs Neo4j.md",
+    "Sistemes de Big Data/Bases de dades/No relacional/NoSQL.md",
     "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/MongoDB.md",
+    "Sistemes de Big Data/Bases de dades/No relacional/Neo4j",
+    "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/Replicació i particionament MongoDB.md",
     "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/Rendiment MongoDB.md",
     "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/Modelat documental",
     "Sistemes de Big Data/Bases de dades/No relacional/MongoDB/Modelat documental/Aplicar patrons.md",
@@ -214,18 +221,11 @@
     "Imatges/Pasted image 20261029174442.png",
     "Imatges/Pasted image 20261029173939.png",
     "Imatges/Pasted image 20261029173614.png",
-    "Sistemes de Big Data/Bases de dades/No relacional/NoSQL.md",
     "Sistemes de Big Data/Bases de dades/No relacional/MongoDB",
     "Sistemes de Big Data/Bases de dades/Relacional/SQL.md",
     "Sistemes de Big Data/Bases de dades/Bases de dades.md",
     "Sistemes de Big Data/Bases de dades/No relacional",
     "Sistemes de Big Data/Bases de dades/Relacional/SQLServer/SQLServer.md",
-    "Sistemes de Big Data/Bases de dades/Relacional/SQLServer/SQL analitic.md",
-    "Models de IA/Models de IA.md",
-    "Models de IA/Que es la IA.md",
-    "Programacio de IA/Python/Virtual Environment.md",
-    "Programacio de IA/Python/Python.md",
-    "Programacio de IA/Python",
     "Imatges/Pasted image 20261006202246.png",
     "Imatges/Pasted image 20261006200442.png",
     "Imatges/Pasted image 20261002190652.png",

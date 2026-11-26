@@ -3,3 +3,5 @@
 [Tipus d'IA](Tipus%20d'IA.md)
 
 [Estadistica](Estadistica/Estadistica.md)
+
+[Midudev](Midudev/Midudev.md)

@@ -13,9 +13,7 @@ Cuando NO usar Jev:
 - Redactar texto
 - Conversar
 - Razonar en varios pasos
-
 ## Diferencias entre Jev o Laya
-
 Diferencias entre Jev y Laya, Jev es un modelo privado solo se puede usar mediante peticiones a su propia API mientras que Laya, también permite peticiones a su propia API, pero también podríamos descargar el modelo de Laya, ya que es un modelo abierto y usarlo sería completamente gratuito.
 
 Una requests a Jev o Laya se vería así:

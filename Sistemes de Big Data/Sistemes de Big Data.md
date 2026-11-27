@@ -5,3 +5,5 @@
 [Docker comandas](Docker%20comandas/Docker%20comandas.md)
 
 [Bases de dades](Bases%20de%20dades/Bases%20de%20dades.md)
+
+[Cloud](Cloud/Cloud.md)

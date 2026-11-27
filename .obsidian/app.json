@@ -272,7 +272,10 @@
     "Jev",
     "Jev",
     "Una requ",
-    "chrome"
+    "chrome",
+    "Cloud",
+    "nula",
+    "IaaS"
   ],
   "promptDelete": false,
   "propertiesInDocument": "hidden"
